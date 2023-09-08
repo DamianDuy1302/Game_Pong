@@ -1,0 +1,74 @@
+﻿  Pong.cpp
+D:\GameC++\Pong\Pong\Pong.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(14,33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(14,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(23,24): warning C4244: 'initializing': conversion from 'float' to '__int64', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(24,25): warning C4244: 'initializing': conversion from 'float' to '__int64', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(25,35): warning C4244: 'initializing': conversion from 'float' to '__int64', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(27,43): warning C4244: 'argument': conversion from '__int64' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GameC++\Pong\Pong\Pong.cpp(27,30): warning C4244: 'argument': conversion from '__int64' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GameC++\Pong\Pong\Pong.cpp(29,33): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(31,73): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(31,48): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(34,44): warning C4244: 'argument': conversion from '__int64' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GameC++\Pong\Pong\Pong.cpp(34,31): warning C4244: 'argument': conversion from '__int64' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GameC++\Pong\Pong\Pong.cpp(36,34): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(38,102): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(38,77): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(43,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(44,17): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(46,27): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(48,49): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(48,31): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(58,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(69,64): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(69,39): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(75,68): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(75,39): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(112,51): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(112,33): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(113,104): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(113,79): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(114,75): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(114,50): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(117,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(167,36): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GameC++\Pong\Pong\Pong.cpp(176,65): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(184,42): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(194,36): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GameC++\Pong\Pong\Pong.cpp(202,66): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(210,43): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(236,19): warning C4244: 'initializing': conversion from 'float' to '__int64', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(340,71): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(340,42): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(345,73): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(345,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(352,71): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(352,42): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(357,73): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+D:\GameC++\Pong\Pong\Pong.cpp(357,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Pong.vcxproj -> D:\GameC++\Pong\x64\Debug\Pong.exe
